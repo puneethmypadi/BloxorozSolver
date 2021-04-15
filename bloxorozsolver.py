@@ -2,7 +2,7 @@
 # @Time    : 21/11/2020
 # @Author  : Puneeth Mypadi
 # @Email   : puneeth.mypadi@gmail.com
-# @File    : assignment.py
+# @File    : bloxorozsolver.py
 
 # import statements
 import numpy as np

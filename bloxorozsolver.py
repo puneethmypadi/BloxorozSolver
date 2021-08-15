@@ -106,7 +106,7 @@ def remove_impossible_states(states):
     kept_states = []
     for state in states:
         if not falls_out_of_boundary(state):
-            kep_states = kept_states.append(state)
+            kept_states = kept_states.append(state)
         i = i + 1
     return np.array(kept_states)
 
